@@ -14,8 +14,8 @@ was taken as 30 %, and the rest 20% for testing after the training centroid was 
 
 Individually all the distance method were called, and error, absolute error, mean square error, and error distance was calculated. In the end, a graph was a plot between the classifier and misclassified.
 
-Euclidean distance: It represents the shortest distance between two point
-Manhattan Distance: It is used to find the sum of absolute differences between points across all the dimensions.
-Mahalanobis Distance: First, we have to find the covariance matrix, and when the covariance distance is an identity matrix, then Mahalanobis is the same as the euclidean distance
-Correlation Distance: Gives the correlation coefficient distance between vectors given.
+Euclidean distance: It represents the shortest distance between two point<\br>
+Manhattan Distance: It is used to find the sum of absolute differences between points across all the dimensions.<\br>
+Mahalanobis Distance: First, we have to find the covariance matrix, and when the covariance distance is an identity matrix, then Mahalanobis is the same as the euclidean distance.<\br>
+Correlation Distance: Gives the correlation coefficient distance between vectors given.<\br>
 Cosine distance: Gives the angular cosine distance between vectors given.
