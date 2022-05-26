@@ -1,13 +1,13 @@
-Distance based classifier:
+**Distance based classifier:**
 
 The distance-based algorithm classifies the data set based on the distance between the two data points. Standard distance-based classifiers are euclidean distance, city block distance, cosine distance, chessboard, etc.
 
 
 
 
-Library imported: Numpy, pandas, matplotlib, random, statistics.
+**Library imported:** Numpy, pandas, matplotlib, random, statistics.
 
-Explaination
+**Explaination**
 
 The array was created for the three classes setosa, virginica, and Versicolor. Training of the dataset was made randomly initially. The training percent was 60, and testing was 40. as each class contains 50 attributes, training
 was taken as 30 %, and the rest 20% for testing after the training centroid was calculated for the training dataset. Before testing, two lists were created as list one and list two, and diff was called to calculate the nth discrete difference along the given axis. Testing was made using diff of an array created earlier and training data.
